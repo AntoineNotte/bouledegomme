@@ -2136,13 +2136,14 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style:none;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			display: inline;
 		}
 
 		ul.alt {
@@ -3511,7 +3512,7 @@ input, select, textarea {
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
-								display: inline-block;
+								display: inline;
 								height: 3.75em;
 								vertical-align: top;
 								width: 2em;
