@@ -6,10 +6,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-img {
-	width: 300px;
-
-}
 
 .special-control{
 	border-radius: 5%;
@@ -19,10 +15,17 @@ img {
 	width:100%;
 }
 
-.img-gallery img{
+.img-style img{
 	border-radius:8%;
 	border: 3px solid #a4a4a4;
+}
+.img-gallery img{
 	height:380px;
+	width: 300px;
+}
+.img-prop img{
+	height:200px;
+	width:250px;
 }
 .img-first img{
 	height:800px;
