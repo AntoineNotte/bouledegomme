@@ -39,6 +39,10 @@ body {
 	line-height: 1;
 }
 
+.presentationImg{
+	border-radius:5%;
+	margin-top:40px;
+}
 ol, ul {
 	list-style: none;
 }
