@@ -30,7 +30,9 @@
 .img-first img{
 	height:800px;
 }
-
+#menu2{
+	margin-right:25px;
+}
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
