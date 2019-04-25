@@ -4011,3 +4011,7 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+	.logo{
+		width: 70px;
+	    height: 70px;
+	}
